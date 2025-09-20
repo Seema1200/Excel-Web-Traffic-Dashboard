@@ -41,11 +41,11 @@ I created it as part of my **Data Analyst learning journey** to practice:
 
 ---
 
-## 📂 Files in this Repository  
-
-- `Dashboard.xlsx` → Main Excel Dashboard  
-- `Project_Presentation.pptx` → PPT Presentation  
-- `README.md` → Documentation (this file)  
+## 📂 Files in this Repository   
+- [Dashboard.xlsx](Dashboard.xlsx) → Main Excel Dashboard  
+- [Project_Presentation.pptx](Project_Presentation.pptx) → PPT Presentation  
+- [README.md](README.md) → Documentation (this file)  
+- [Dashboard.png](Dashboard.png) → Screenshot of the Dashboard
 
 ---
 
@@ -58,9 +58,7 @@ I created it as part of my **Data Analyst learning journey** to practice:
 
 ---
 
-## 📷 Dashboard Preview  
-
-(Add screenshot here after uploading: `Dashboard.png`)  
+## 📷 Dashboard Preview    
 
 ![Dashboard Preview](Dashboard.png)  
 
