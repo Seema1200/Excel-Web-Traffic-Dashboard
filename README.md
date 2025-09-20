@@ -42,7 +42,7 @@ I created it as part of my **Data Analyst learning journey** to practice:
 ---
 
 ## 📂 Files in this Repository   
-- [Dashboard.xlsx](Dashboard.xlsx) → Main Excel Dashboard  
+- [Dashboard.xlsx](https://github.com/Seema1200/Excel-Web-Traffic-Dashboard/blob/main/Data%20File.xlsx) → Main Excel Dashboard  
 - [Project_Presentation.pptx](Project_Presentation.pptx) → PPT Presentation  
 - [README.md](README.md) → Documentation (this file)  
 - [Dashboard.png](Dashboard.png) → Screenshot of the Dashboard
